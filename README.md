@@ -1,8 +1,8 @@
 # Notebook-Phyton
 
-Este é meu caderno de anotação phyton:
+Este é o exemplo de código em python para exibir uma mensagem na tela:
 
-print("Ola mundo")
+print("Olá Mundo")
 
 No sistema operacional Windows o interpretador Python deverá ser instalado para que possa ser utilizado, nos sistemas operacionais derivados de Linux na sua maioria já vem com o interpretador Python instalado por padrão, no macOS também. Para saber se o interpretador Python está instalado e qual sua versão utilize o comando a seguir:
 
