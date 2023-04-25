@@ -24,6 +24,6 @@ exit()
 Identação no python(TAB) significa um bloco de código, em outras linguagens de programação usa-se {} em python usa-se a identação(TAB)
 
 2 - Exercicios de programação
-2.1 - Faça um programa que receba a como entrada dois números inteiros e faça a multiplicação entre esses dois números Resposta: https://github.com/profedney/cadpython/blob/main/3multiplicador.py
+2.1 - Faça um programa que receba a como entrada dois números inteiros e faça a multiplicação entre esses dois números Resposta: 
 
 2.2 - Faça um programa que pergunte ao usuario sua idade, o programa responde se ele é de maior ou menor de idade
